@@ -1,4 +1,8 @@
-## Hi there 👋
+## Olá! Sou o Nathan da Cunha
+- Estudando Desenvolvimento Mobile
+- Técnico em Desenvolvimento de Sistemas
+
+##
 
 <!--
 **nathandacunha/nathandacunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
