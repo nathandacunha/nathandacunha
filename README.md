@@ -5,6 +5,11 @@
 
 <div>
     <h1>Tecnologias</h1>
+    <ul>
+        <li>Kotlin</li>
+        <li>Python</li>
+        <li>HTML & CSS </li>
+    </ul>
 </div>
 <!--
 **nathandacunha/nathandacunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
