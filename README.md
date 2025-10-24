@@ -6,9 +6,9 @@
 <div>
     <h1>Tecnologias</h1>
     <ul>
-        <li>Kotlin</li>
+        <li>HTML & CSS</li>
+        <li>Kotlin & Java</li>
         <li>Python</li>
-        <li>HTML & CSS </li>
     </ul>
 </div>
 <!--
