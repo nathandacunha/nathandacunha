@@ -1,14 +1,16 @@
 ## Olá! Sou o Nathan da Cunha
-- 📳 Estudando Desenvolvimento Mobile Android
+- 📳 Estudando Desenvolvimento Mobile Android e Desenvolvimento Web
 - 💻 Técnico em Desenvolvimento de Sistemas
 ##
 
 <div>
     <h1>Tecnologias</h1>
     <ul>
-        <li>HTML & CSS</li>
-        <li>Kotlin & Java</li>
-        <li>Python</li>
+        <li>Web: HTML, CSS, JavaScript e PHP</li>
+        <li>IoT: C/C++ para Arduino </li>
+        <li>Mobile Android: Kotlin & Java</li>
+        <li>Banco de Dados: MySQL</li>
+        <li>Outras tecnologias utilizadas: Python</li>
     </ul>
 </div>
 <!--
