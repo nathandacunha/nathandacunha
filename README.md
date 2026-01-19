@@ -9,7 +9,7 @@
         <li>Web: HTML, CSS e JavaScript</li>
         <li>IoT: C/C++ para Arduino </li>
         <li>Banco de Dados: MySQL</li>
-        <li>Outras tecnologias utilizadas: Python e Java</li>
+        <li>Outras tecnologias utilizadas: Java</li>
     </ul>
 </div>
 <!--
